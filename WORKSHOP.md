@@ -665,9 +665,9 @@ CI/CD systems can trigger tests automatically:
 
 This repository is configured with GitHub Actions to run `UltrafastVisualTest`:
 
-* [Run UltrafastVisualTest (Original)](https://github.com/AutomationPanda/applitools-cbt-20211216/actions/workflows/RunUltrafastVisualTest.yml)
+* [Run UltrafastVisualTest (Original)](https://github.com/applitools/workshop-cbt-selenium-java/actions/workflows/RunUltrafastVisualTest.yml)
   runs the test with the original pages.
-* [Run UltrafastVisualTest (Changed)](https://github.com/AutomationPanda/applitools-cbt-20211216/actions/workflows/RunUltrafastVisualTestChanged.yml)
+* [Run UltrafastVisualTest (Changed)](https://github.com/applitools/workshop-cbt-selenium-java/actions/workflows/RunUltrafastVisualTestChanged.yml)
   runs the test with the changed pages to reveal visual failures.
 
 Ideally, teams want to get as many results as they can as quickly as possible.
