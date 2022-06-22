@@ -25,11 +25,18 @@ In this 1-hour interactive workshop
 you will learn how industry leaders are integrating cross-browser testing into CI/CD
 for faster and immediate feedback.
 
+In this 1-hour workshop,
+"Automation Panda" Andrew Knight will explain how to create ultrafast automated cross-browser tests
+using Applitools Eyes with Selenium WebDriver in Java,
+and how to integrate them into CI/CD to provide feedback on quality across all browser/device combinations in seconds.
+
+
 **Highlights:**
 
 * The importance and evolution of cross browser testing
 * Critical requirements for a scalable cross browser testing initiative and pros/cons of different approaches
-* How to accelerate cross browser / cross device testing for integration into CI/CD
+* Implementing a modern cross browser solution using Applitools Eyes with Selenium WebDriver in Java
+* Accelerating test automation with integration into CI/CD
 
 
 ## Outline
