@@ -105,9 +105,9 @@ public class UltrafastVisualTest
         // Open Eyes to start visual testing.
         // It is a recommended practice to set all four inputs:
         eyes.open(
-                driver,                                         // WebDriver object to "watch"
-                "ACME Bank Web App",                            // The name of the app under test
-                testInfo.getDisplayName(),                      // The name of the test case
+                driver,                                        // WebDriver object to "watch"
+                "ACME Bank Web App",                           // The name of the app under test
+                testInfo.getDisplayName(),                     // The name of the test case
                 new RectangleSize(1024, 768));    // The viewport size for the local browser
     }
 
