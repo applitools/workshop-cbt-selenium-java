@@ -1,6 +1,6 @@
 ![Modern Cross-Browser Testing Workshop](images/modern-cbt-banner.png)
 
-# Modern Cross-Browser Testing with Selenium WebDriver in Java
+# Modern Cross-Browser Testing with Selenium in Java
 
 This repository contains the example code for the
 [Modern Cross-Browser Testing](https://applitools.com/crossbrowser-testing-workshop/) workshop
