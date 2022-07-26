@@ -21,12 +21,9 @@ has exponentially increased the number of screens that need to be validated each
 an industry average of 81,480 screens to 681,296 for the top 33% –
 and traditional test automation can’t keep up.
 
-In this 1-hour interactive workshop
-you will learn how industry leaders are integrating cross-browser testing into CI/CD
-for faster and immediate feedback.
-
 In this 1-hour workshop,
-"Automation Panda" Andrew Knight will explain how to create ultrafast automated cross-browser tests
+Pandy Knight, the [Automation Panda](https://automationpanda.com/),
+will explain how to create ultrafast automated cross-browser tests
 using Applitools Eyes with Selenium WebDriver in Java,
 and how to integrate them into CI/CD to provide feedback on quality across all browser/device combinations in seconds.
 
