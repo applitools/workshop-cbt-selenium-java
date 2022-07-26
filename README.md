@@ -12,14 +12,16 @@ Full instructions for the workshop are provided in [`WORKSHOP.md`](WORKSHOP.md).
 
 ## Abstract
 
-As organizations double down on digital,
-the concept of quality has evolved from "does it work" to "is it the best experience"
-— but the race to deliver innovation to market faster than the competition is causing challenges for software teams.
+Testing web apps in 2022 is *still* a hard problem.
+Apps are more complex than ever,
+and their pages must be validated against an exploding number of combinations of browsers, devices, and versions –
+an industry average of 81,480 screens to 681,296 for the top 33%.
 
-More frequent releases multiplied by an explosion of device/browser combinations and increased application complexity
-has exponentially increased the number of screens that need to be validated each cycle –
-an industry average of 81,480 screens to 681,296 for the top 33% –
-and traditional test automation can’t keep up.
+Old-school tools like Selenium WebDriver still get the job done today,
+but old-school techniques for making assertions and running tests across different browsers can't keep up.
+Why? They are inherently *sloooooooooow*:
+Slow to develop, slow to execute, and slow to maintain.
+It's time to rethink how we automate web UI tests at scale for true Continuous Testing.
 
 In this 1-hour workshop,
 Pandy Knight, the [Automation Panda](https://automationpanda.com/),
@@ -33,7 +35,7 @@ and how to integrate them into CI/CD to provide feedback on quality across all b
 * The importance and evolution of cross browser testing
 * Critical requirements for a scalable cross browser testing initiative and pros/cons of different approaches
 * Implementing a modern cross browser solution using Applitools Eyes with Selenium WebDriver in Java
-* Accelerating test automation with integration into CI/CD
+* Accelerating test automation with integration into CI/CD to achieve Continuous Testing
 
 
 ## Outline
